@@ -13,5 +13,9 @@ namespace ProjectPRNClient.Controllers
         {
             return View();
         }
+        public IActionResult ServiceDetail()
+        {
+            return View();
+        }
     }
 }
